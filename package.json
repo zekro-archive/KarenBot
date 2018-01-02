@@ -1,0 +1,20 @@
+{
+    "name": "privatebot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+      "test": "node main.js debug",
+      "start": "node main.js"
+    },
+    "author": "zekro",
+    "license": "ISC",
+    "dependencies": {
+      "discord.js": "^11.2.1",
+      "mysql": "^2.15.0",
+      "discordjs-cmds": "^0.3.1",
+      "extendutils": "^0.2.1",
+      "eris": "^0.8.2"
+    }
+  }
+  
